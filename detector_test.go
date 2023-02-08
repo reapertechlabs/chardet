@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gogs/chardet"
+	"github.com/xWTF/chardet"
 )
 
 func TestDetector(t *testing.T) {
