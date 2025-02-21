@@ -1,3 +1,3 @@
-module github.com/gogs/chardet
+module github.com/reapertechlabs/chardet
 
-go 1.19
+go 1.23

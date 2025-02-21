@@ -1,5 +1,7 @@
 # chardet
 
+*Fork for RTLABS Usage - Forked Feb 2025*
+
 chardet is library to automatically detect
 [charset](http://en.wikipedia.org/wiki/Character_encoding) of texts for [Go
 programming language](http://golang.org/). It's based on the algorithm and data
@@ -9,4 +11,4 @@ The project was created by [saintfish](http://github.com/saintfish/chardet). In 
 
 ## Documentation and Usage
 
-See [pkgdoc](http://godoc.org/github.com/gogs/chardet)
+See [pkgdoc](http://pkg.do.dev/github/reapertechlabs/chardet)
